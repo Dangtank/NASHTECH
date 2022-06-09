@@ -1,0 +1,15 @@
+D:\C#\DAY3_EVENT\obj\Debug\net6.0\DAY3_EVENT.csproj.AssemblyReference.cache
+D:\C#\DAY3_EVENT\obj\Debug\net6.0\DAY3_EVENT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DAY3_EVENT\obj\Debug\net6.0\DAY3_EVENT.AssemblyInfoInputs.cache
+D:\C#\DAY3_EVENT\obj\Debug\net6.0\DAY3_EVENT.AssemblyInfo.cs
+D:\C#\DAY3_EVENT\obj\Debug\net6.0\DAY3_EVENT.csproj.CoreCompileInputs.cache
+D:\C#\DAY3_EVENT\bin\Debug\net6.0\DAY3_EVENT.exe
+D:\C#\DAY3_EVENT\bin\Debug\net6.0\DAY3_EVENT.deps.json
+D:\C#\DAY3_EVENT\bin\Debug\net6.0\DAY3_EVENT.runtimeconfig.json
+D:\C#\DAY3_EVENT\bin\Debug\net6.0\DAY3_EVENT.dll
+D:\C#\DAY3_EVENT\bin\Debug\net6.0\DAY3_EVENT.pdb
+D:\C#\DAY3_EVENT\obj\Debug\net6.0\DAY3_EVENT.dll
+D:\C#\DAY3_EVENT\obj\Debug\net6.0\refint\DAY3_EVENT.dll
+D:\C#\DAY3_EVENT\obj\Debug\net6.0\DAY3_EVENT.pdb
+D:\C#\DAY3_EVENT\obj\Debug\net6.0\DAY3_EVENT.genruntimeconfig.cache
+D:\C#\DAY3_EVENT\obj\Debug\net6.0\ref\DAY3_EVENT.dll

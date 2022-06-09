@@ -1,0 +1,15 @@
+D:\C#\DAY3_SYNCHRONOUS\bin\Debug\net6.0\DAY3_SYNCHRONOUS.exe
+D:\C#\DAY3_SYNCHRONOUS\bin\Debug\net6.0\DAY3_SYNCHRONOUS.deps.json
+D:\C#\DAY3_SYNCHRONOUS\bin\Debug\net6.0\DAY3_SYNCHRONOUS.runtimeconfig.json
+D:\C#\DAY3_SYNCHRONOUS\bin\Debug\net6.0\DAY3_SYNCHRONOUS.dll
+D:\C#\DAY3_SYNCHRONOUS\bin\Debug\net6.0\DAY3_SYNCHRONOUS.pdb
+D:\C#\DAY3_SYNCHRONOUS\obj\Debug\net6.0\DAY3_SYNCHRONOUS.csproj.AssemblyReference.cache
+D:\C#\DAY3_SYNCHRONOUS\obj\Debug\net6.0\DAY3_SYNCHRONOUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DAY3_SYNCHRONOUS\obj\Debug\net6.0\DAY3_SYNCHRONOUS.AssemblyInfoInputs.cache
+D:\C#\DAY3_SYNCHRONOUS\obj\Debug\net6.0\DAY3_SYNCHRONOUS.AssemblyInfo.cs
+D:\C#\DAY3_SYNCHRONOUS\obj\Debug\net6.0\DAY3_SYNCHRONOUS.csproj.CoreCompileInputs.cache
+D:\C#\DAY3_SYNCHRONOUS\obj\Debug\net6.0\DAY3_SYNCHRONOUS.dll
+D:\C#\DAY3_SYNCHRONOUS\obj\Debug\net6.0\refint\DAY3_SYNCHRONOUS.dll
+D:\C#\DAY3_SYNCHRONOUS\obj\Debug\net6.0\DAY3_SYNCHRONOUS.pdb
+D:\C#\DAY3_SYNCHRONOUS\obj\Debug\net6.0\DAY3_SYNCHRONOUS.genruntimeconfig.cache
+D:\C#\DAY3_SYNCHRONOUS\obj\Debug\net6.0\ref\DAY3_SYNCHRONOUS.dll
