@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\DAY3_EVENT\\DAY3_EVENT.csproj": {}
+    "d:\\NASHTECH\\DAY3_EVENT\\DAY3_EVENT.csproj": {}
   },
   "projects": {
-    "D:\\C#\\DAY3_EVENT\\DAY3_EVENT.csproj": {
+    "d:\\NASHTECH\\DAY3_EVENT\\DAY3_EVENT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\DAY3_EVENT\\DAY3_EVENT.csproj",
+        "projectUniqueName": "d:\\NASHTECH\\DAY3_EVENT\\DAY3_EVENT.csproj",
         "projectName": "DAY3_EVENT",
-        "projectPath": "D:\\C#\\DAY3_EVENT\\DAY3_EVENT.csproj",
+        "projectPath": "d:\\NASHTECH\\DAY3_EVENT\\DAY3_EVENT.csproj",
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\DAY3_EVENT\\obj\\",
+        "outputPath": "d:\\NASHTECH\\DAY3_EVENT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config"
