@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UupHQgKuUVmR0LfQovlMDqnqC3DdLdeY9PEux0K535XXACvPBsABeXUXhQ+ravP0eM4IDUz32NR32WyxjlOQvg==",
+  "success": true,
+  "projectFilePath": "D:\\ASP\\DAY1\\DAY1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
