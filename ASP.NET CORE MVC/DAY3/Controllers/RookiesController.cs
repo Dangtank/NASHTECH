@@ -1,10 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using DAY2.Services;
+using DAY3.Services;
 using System.IO;
-using DAY2.Models;
+using DAY3.Models;
+using Microsoft.AspNetCore.Http;
 
-namespace DAY2.Controllers
+namespace DAY3.Controllers
 {
     // [Route("rookies")]
     // [Route("nashtech/rookies")]
@@ -30,7 +31,7 @@ namespace DAY2.Controllers
             return View();
         }
 
-        [HttpPost("")]
+        [HttpPost]
         public IActionResult Create(Person model)
         {
             var result = _personService.Create(model);
@@ -41,6 +42,7 @@ namespace DAY2.Controllers
         {
             ViewData["index"] = index;
             var person = _personService.GetOne(index);
+
             return View();
         }
 
@@ -53,6 +55,7 @@ namespace DAY2.Controllers
             current.Gender = model.Gender;
 
             var result = _personService.Update(index, model);
+
             return RedirectToAction("Index");
         }
 
@@ -60,7 +63,31 @@ namespace DAY2.Controllers
         public IActionResult Delete(int index)
         {
             _personService.Delete(index);
+
             return RedirectToAction("Index");
+        }
+
+        public IActionResult Details(int index)
+        {
+            ViewData["Index"] = index;
+            var person = _personService.GetOne(index);
+
+            return View(person);
+        }
+
+        [HttpPost]
+        public IActionResult DeleteAndRedirectToResultPage(int index)
+        {
+            var person = _personService.GetOne(index);
+            HttpContext.Session.SetString("DELETED_MEMBER_FULLNAME", person.FullName);
+            _personService.Delete(index);
+
+            return RedirectToAction("DeleteResult", new { name = person.FullName });
+        }
+
+        public IActionResult DeleteResult()
+        {
+            return View();
         }
     }
 }

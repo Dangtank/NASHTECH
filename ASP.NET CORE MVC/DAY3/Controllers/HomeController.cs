@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using DAY1.Models;
+using DAY3.Models;
 
-namespace DAY2.Controllers
+namespace DAY3.Controllers
 {
     public class HomeController : Controller
     {

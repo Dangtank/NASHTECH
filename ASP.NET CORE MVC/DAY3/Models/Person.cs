@@ -1,6 +1,6 @@
 using System;
 
-namespace DAY2.Models
+namespace DAY3.Models
 {
     public class Person
     {

@@ -30,7 +30,7 @@ namespace DAY2.Controllers
             return View();
         }
 
-        [HttpPost("")]
+        [HttpPost]
         public IActionResult Create(Person model)
         {
             var result = _personService.Create(model);

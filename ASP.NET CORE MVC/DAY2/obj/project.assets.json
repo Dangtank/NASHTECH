@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP\\DAY2\\DAY2.csproj",
+      "projectUniqueName": "d:\\NASHTECH\\ASP.NET CORE MVC\\DAY2\\DAY2.csproj",
       "projectName": "DAY2",
-      "projectPath": "D:\\ASP\\DAY2\\DAY2.csproj",
+      "projectPath": "d:\\NASHTECH\\ASP.NET CORE MVC\\DAY2\\DAY2.csproj",
       "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP\\DAY2\\obj\\",
+      "outputPath": "d:\\NASHTECH\\ASP.NET CORE MVC\\DAY2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP\\DAY2\\DAY2.csproj": {}
+    "D:\\NASHTECH\\ASP.NET CORE MVC\\DAY2\\DAY2.csproj": {}
   },
   "projects": {
-    "D:\\ASP\\DAY2\\DAY2.csproj": {
+    "D:\\NASHTECH\\ASP.NET CORE MVC\\DAY2\\DAY2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP\\DAY2\\DAY2.csproj",
+        "projectUniqueName": "D:\\NASHTECH\\ASP.NET CORE MVC\\DAY2\\DAY2.csproj",
         "projectName": "DAY2",
-        "projectPath": "D:\\ASP\\DAY2\\DAY2.csproj",
+        "projectPath": "D:\\NASHTECH\\ASP.NET CORE MVC\\DAY2\\DAY2.csproj",
         "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP\\DAY2\\obj\\",
+        "outputPath": "D:\\NASHTECH\\ASP.NET CORE MVC\\DAY2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config"

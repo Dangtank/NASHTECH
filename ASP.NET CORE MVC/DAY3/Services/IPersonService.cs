@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using DAY2.Models;
+using DAY3.Models;
 
-namespace DAY2.Services
+namespace DAY3.Services
 {
     public interface IPersonService
     {       
