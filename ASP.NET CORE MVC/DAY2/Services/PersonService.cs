@@ -24,32 +24,32 @@ namespace DAY2.Services
             },
             new Person
             {
-                FirstName = "Giang",
-                LastName = "Vu Hoang",
+                FirstName = "Anh",
+                LastName = "Dang Tuan",
+                Gender = "Male",
+                DateOfBirth = new DateTime(2000, 3, 15),
+                PhoneNumber = "",
+                BirthPlace = "Ninh Binh",
+                IsGraduated = false
+            },
+            new Person
+            {
+                FirstName = "Tung",
+                LastName = "Nguyen Hoang",
                 Gender = "Male",
                 DateOfBirth = new DateTime(2001, 3, 15),
                 PhoneNumber = "",
-                BirthPlace = "Phu Tho",
+                BirthPlace = "Bac Ninh",
                 IsGraduated = false
             },
             new Person
             {
-                FirstName = "Giang",
-                LastName = "Vu Hoang",
-                Gender = "Male",
-                DateOfBirth = new DateTime(2002, 3, 15),
-                PhoneNumber = "",
-                BirthPlace = "Phu Tho",
-                IsGraduated = false
-            },
-            new Person
-            {
-                FirstName = "Giang",
-                LastName = "Vu Hoang",
+                FirstName = "Hai",
+                LastName = "Pham Duc",
                 Gender = "Male",
                 DateOfBirth = new DateTime(1999, 3, 15),
                 PhoneNumber = "",
-                BirthPlace = "Phu Tho",
+                BirthPlace = "Kien Giang",
                 IsGraduated = false
             },
         };

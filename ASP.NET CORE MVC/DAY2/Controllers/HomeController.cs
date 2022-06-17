@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using DAY1.Models;
+using DAY2.Models;
 
 namespace DAY2.Controllers
 {

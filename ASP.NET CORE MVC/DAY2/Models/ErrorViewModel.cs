@@ -1,6 +1,6 @@
 using System;
 
-namespace DAY1.Models
+namespace DAY2.Models
 {
     public class ErrorViewModel
     {
